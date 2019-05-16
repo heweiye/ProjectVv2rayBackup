@@ -1,11 +1,11 @@
 {
   "inbound": {
-    "port": 22612,
+    "port": 25812,
     "protocol": "vmess",  
     "settings": {
      "clients": [
       {
-      "id": "4e0f9136-5ea8-462c-bce9-7dd7535dcf78",
+      "id": "4e0f9136-5ea8-462c-bce9-7dd75bjkcf78",
       "level": 1,
       "alterId": 64,
       "email": "0001@qq.com"
